@@ -1,4 +1,5 @@
 ## Hi there 👋
+[Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there)
 ---
 <!--
 **huazZeng/huazZeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +20,8 @@ Here are some ideas to get you started:
 
 ### Data About Me
 
-[![huazzeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=huazzeng)](https://github.com/huazzeng/github-readme-stats)
+![huazzeng's GitHub stats](https://github-immortality.vercel.app/api?username=huazzeng)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huazzeng)
+![huazzeng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huazzeng)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huazzeng)
