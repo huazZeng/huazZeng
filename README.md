@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+---
 <!--
 **huazZeng/huazZeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![huazzeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=huazzeng)](https://github.com/anuraghazra/github-readme-stats)
+### BLOG
+
+
+### Data About Me
+
+[![huazzeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=huazzeng)](https://github.com/huazzeng/github-readme-stats)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huazzeng)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huazzeng)
